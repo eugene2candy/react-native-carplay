@@ -201,8 +201,13 @@ CarPlay.setRootTemplate(songs, false);
 - [x] CPSearchTemplate
 - [x] CPMapTemplate
 - [x] CPVoiceControlTemplate
-- [ ] CPAlertTemplate
-- [ ] CPActionSheetTemplate
+- [x] CPTabBarTemplate
+- [x] CPContactTemplate (not working 14.0.2)
+- [x] CPPointOfInterestTemplate (not working 14.0.2)
+- [x] CPNowPlayingTemplate (not working 14.0.2)
+- [x] CPInformationTemplate
+- [x] CPAlertTemplate
+- [x] CPActionSheetTemplate
 
 ### Route Guidance
 
@@ -231,6 +236,7 @@ CarPlay.setRootTemplate(songs, false);
 
 - [ ] topTemplate
 - [ ] rootTemplate
+- [ ] templates
 
 ### Events
 
